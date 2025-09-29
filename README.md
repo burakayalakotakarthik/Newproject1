@@ -1,19 +1,19 @@
- Hi there, I'm B.Karthik kumar
+ Hi there, I'm Burakayalakota Karthik kumar
 
 I'm a passionate *software Engineer* with a love for building impactful software and learning new technologies.
 
- About Me
+ About Me ....
 
--  I’m currently working on: **[Your current project or focus]**
+-  I’m currently working on: **[AI DEVELOPMENT]**
 -  I’m learning: **[ML AND DL]**
 -  How to reach me: [karthik010401@gmail.com]() | [www.linkedin.com/in/karthik-kumar-burakayalakota-5743b224a]
 karthik-kumar-burakayalakota-5743b224a
 
- Fun fact: [Something interesting or quirky about you]
+ 
 
 
 
- Tech Stack
+ Tech Stack ....
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square)
