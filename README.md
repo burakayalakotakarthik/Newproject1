@@ -27,6 +27,11 @@ karthik-kumar-burakayalakota-5743b224a
 ![Cron](https://img.shields.io/badge/-Cron-000000?style=flat-square&logo=linux&logoColor=white)
 ![Webhook](https://img.shields.io/badge/-Webhook-0069aa?style=flat-square&logo=webhooks&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 
 
