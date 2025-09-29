@@ -20,6 +20,11 @@ karthik-kumar-burakayalakota-5743b224a
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square)
+jenkins
+kubernets
+docker
+tomcat
+
 
 ---
 
